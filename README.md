@@ -1,4 +1,4 @@
-sentiment
+#sentiment
 =========
 
 Sentiment analysis using machine learning techniques.
@@ -9,3 +9,7 @@ tool is available [here](http://sentiment.vivekn.com)
 Refer this paper for more information about the algorithms used.
 
 http://arxiv.org/abs/1305.6143
+
+==========
+
+Forked from vivekn - https://github.com/vivekn/sentiment
